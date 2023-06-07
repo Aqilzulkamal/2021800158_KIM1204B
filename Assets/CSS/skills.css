@@ -1,0 +1,27 @@
+* {box-sizing: border-box}
+
+
+.container {
+  font-family: Super Comic;
+  width: 100%;
+  background-color: #FAEBEFFF;
+  border-radius: 0 20px 20px 0;
+} 
+
+
+.skills {
+  text-align: right;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #91EAE4;
+
+}
+
+.editing {width: 90%; background-color: #7F7FD5;}
+.speaking {width: 50%; background-color: #7F7FD5;}
+.creative {width: 65%; background-color: #7F7FD5;}
+.multilingual {width: 75%; background-color: #7F7FD5;}
+
+.p1 {
+  font-family: "Indiana Jonas;
+}
